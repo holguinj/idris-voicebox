@@ -1,0 +1,9 @@
+package voicebox
+
+modules = Voicebox, Voicebox.Actions
+sourcedir = src
+
+opts = "-p effects"
+
+main = Voicebox
+executable = voicebox
